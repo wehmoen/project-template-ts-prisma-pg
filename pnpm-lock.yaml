@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@dotenvx/dotenvx':
-    specifier: ^0.44.1
-    version: 0.44.1
+    specifier: ^0.45.0
+    version: 0.45.0
   '@prisma/client':
     specifier: ^5.15.0
     version: 5.15.0(prisma@5.15.0)
@@ -41,8 +41,8 @@ packages:
       kuler: 2.0.0
     dev: false
 
-  /@dotenvx/dotenvx@0.44.1:
-    resolution: {integrity: sha512-OmOU7CRwhXydZUHeTP46GNZsGpwQ3mwrr3cUAWod+FmrKW3ib4GYe1jU++ZFyEEUNvg532QvvM7hQ44YyJrgfw==}
+  /@dotenvx/dotenvx@0.45.0:
+    resolution: {integrity: sha512-qjW6PDX3mONGQHSrI6LPzOCHn/RZPZuHThPrRZOvyo90pTMGQaCqRbcastl1Y3ZQlw0igdcKnk9pJSh5uYNLbg==}
     hasBin: true
     dependencies:
       '@inquirer/confirm': 2.0.17
