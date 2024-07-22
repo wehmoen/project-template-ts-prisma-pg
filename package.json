@@ -22,7 +22,7 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
-    "@dotenvx/dotenvx": "^1.5.0",
+    "@dotenvx/dotenvx": "^1.6.4",
     "@prisma/client": "^5.17.0"
   }
 }
