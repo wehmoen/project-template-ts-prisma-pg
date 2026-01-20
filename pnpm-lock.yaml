@@ -269,8 +269,8 @@ packages:
   cuint@0.2.2:
     resolution: {integrity: sha512-d4ZVpCW31eWwCMe1YT3ur7mUDnTXbgwyzaL320DrcRT45rfjYxkt5QWLrmOJ+/UEAI2+fQgKe/fCjR8l4TpRgw==}
 
-  diff@5.2.0:
-    resolution: {integrity: sha512-uIFDxqpRZGZ6ThOk84hEfqWoHx2devRFvpTZcTHur85vImfaxUbTW9Ryh4CpCuDnToOP1CEtXKIgytHBPVff5A==}
+  diff@5.2.2:
+    resolution: {integrity: sha512-vtcDfH3TOjP8UekytvnHH1o1P4FcUdt4eQ1Y+Abap1tk/OB2MWQvcwS2ClCd1zuIhc3JKOx6p3kod8Vfys3E+A==}
     engines: {node: '>=0.3.1'}
 
   dotenv@16.4.5:
@@ -283,11 +283,6 @@ packages:
 
   enabled@2.0.0:
     resolution: {integrity: sha512-AKrN98kuwOzMIdAizXGI86UFBoo26CL21UM763y1h/GMSJ4/OHU9k2YlsmBpyScFo/wbLzWQJBMCW4+IO3/+OQ==}
-
-
-  env-paths@2.2.1:
-    resolution: {integrity: sha512-+h1lkLKhZMTYjog1VEpJNG7NZJWcuc2DDk/qsqSTRRCOXiLjeQ1d1/udrUGhqMxUgAlwKNZ0cf2uqan5GLuS2A==}
-    engines: {node: '>=6'}
 
   esbuild@0.23.0:
     resolution: {integrity: sha512-1lvV17H2bMYda/WaFb2jLPeHU3zml2k4/yagNMG8Q/YtfMjCwEUZa2eXXMgZTVSL5q1n4H7sQ0X6CdJDqqeCFA==}
@@ -498,7 +493,7 @@ snapshots:
     dependencies:
       chalk: 4.1.2
       commander: 11.1.0
-      diff: 5.2.0
+      diff: 5.2.2
       dotenv: 16.4.5
       eciesjs: 0.4.6
       execa: 5.1.1
@@ -669,7 +664,7 @@ snapshots:
 
   cuint@0.2.2: {}
 
-  diff@5.2.0: {}
+  diff@5.2.2: {}
 
   dotenv@16.4.5: {}
 
@@ -680,8 +675,6 @@ snapshots:
       '@noble/hashes': 1.4.0
 
   enabled@2.0.0: {}
-
-  env-paths@2.2.1: {}
 
   esbuild@0.23.0:
     optionalDependencies:
